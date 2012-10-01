@@ -3,7 +3,7 @@ import java.io.*;
 import javax.swing.JOptionPane;
 import java.awt.Font;
 /*
-
+   //test
  Wanneer een methode met venster gebruikt is moet het programma afgesloten worden met System.exit(0)
 
 
