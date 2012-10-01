@@ -9,6 +9,8 @@ public class LoopWedstrijd implements Iterable <Loper>{
 	
 	public LoopWedstrijd(){
 		lopers = new ArrayList <Loper>();
+		
+		//test
 	}
 	
 	public void voegLoperToe(String naam){
