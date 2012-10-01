@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
+//test 2de branch
+
 public class LoopWedstrijd implements Iterable <Loper>{	
 	private ArrayList <Loper> lopers;
 	
