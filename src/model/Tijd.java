@@ -5,6 +5,15 @@ public class Tijd implements Comparable<Tijd>{
 	private int minuut;
 	private int seconde;
 	
+	/**@author Frederik Kinnaer
+	 * 
+	 * @param uur
+	 * @param minuut
+	 * @param seconde
+	 * @throws IllegalArgumentException
+	 */
+	
+	
 	public Tijd (int uur,int minuut,int seconde)throws IllegalArgumentException{
 		setUur(uur);
 		setMinuut(minuut);
